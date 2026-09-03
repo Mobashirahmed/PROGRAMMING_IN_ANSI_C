@@ -21,4 +21,4 @@ void main()
     3. every line of statements inside the main function should end with a semi-colon
     4. in C there is no data type named exponent
     5. syntax erorr in declaring three variables of integer data type each variable must be seperated by comma operator not semi-colon.
-    6. invalid combination of type specifiers 'shor char' and 'long float' */
+    6. invalid combination of type specifiers 'short char' and 'long float' */
